@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif, arial;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: #444;
+    height: auto;
+    padding-bottom: 3px;
+    
+}
+nav ul{
+    list-style: none;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+nav li{
+    display: inline;
+    text-transform: uppercase;
+}
+nav a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 20px;
+    margin-bottom:  10px;
+    text-overflow: ellipsis;
+}
