@@ -26,3 +26,5 @@ nav a{
     margin-bottom:  10px;
     text-overflow: ellipsis;
 }
+* {box-sizing:border-box}
+
